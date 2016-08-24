@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:righthere="http://schemas.android.com/apk/res-auto"
+    tools:context="org.mattflynn.righthere.MainActivity" >
+    
+    <item
+        android:id="@+id/mapTypeNormal"
+        android:showAsAction="ifRoom"
+        android:title="@string/normal" />
+    <item
+        android:id="@+id/mapTypeSatellite"
+        android:showAsAction="ifRoom"
+        android:title="@string/sattelite" />
+    <item
+        android:id="@+id/mapTypeTerrain"
+        android:showAsAction="ifRoom"
+        android:title="@string/terrain" />
+    <item
+        android:id="@+id/mapTypeHybrid"
+        android:showAsAction="ifRoom"
+        android:title="@string/hybrid" />
+
+</menu>

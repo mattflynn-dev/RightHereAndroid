@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RightHere</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">button1</string>
+    <string name="normal">normal</string>
+    <string name="sattelite">sattelite</string>
+    <string name="terrain">terrain</string>
+    <string name="hybrid">hybrid</string>
+    <string name="none">none</string>
+    <string name="current_location">current_location</string>
+    <string name="centremarker">centremarker</string>
+    <string name="Contacts">Contacts</string>
+    <string name="message">message</string>
+    <string name="mapurl">http://maps.google.com/maps?q=</string>
+    <string name="hereiam">RIGHT HERE!</string>
+    <string name="options">Options</string>
+    
+
+</resources>
